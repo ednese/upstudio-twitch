@@ -1,4 +1,4 @@
-upstudio is a twitch account about music industry. I worked on the front-end in this project.
+Upstudio is a twitch account about music industry. I worked on the front-end in this project.
 
 # Technologies used
 ## Front End
