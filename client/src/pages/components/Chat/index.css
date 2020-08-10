@@ -1,0 +1,13 @@
+.twitch-chat-container {
+    position: fixed;
+    right: 0;
+    top: 71px;
+    width: 350px;
+    height: calc(100vh - 70px);
+    border-left: 1px solid rgb(50, 50, 50);
+}
+
+.twitch-chat-container iframe {
+    height: 100%;
+    width: 100%;
+}

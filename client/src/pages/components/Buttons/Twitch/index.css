@@ -1,0 +1,31 @@
+.login-twitch
+{
+    display: flex;
+    font-size: 14px;
+    background-color: #5F3AAD;
+    width: 200px;
+    height: 37.5px;
+}
+
+.twitch-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 40px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.twitch-logo img {
+    height: 80%;
+    width: auto;
+}
+
+.twitch-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 85%;
+    text-align: center;
+}
